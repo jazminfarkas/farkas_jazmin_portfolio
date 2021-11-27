@@ -1,0 +1,130 @@
+.cim {
+	background-color: #253237;
+	color: #c2dfe3;
+	border: 2px solid #253237;
+	border-radius: 10px;
+	padding: 16px;
+	margin: 8px;
+	text-align: center;
+	font-family: rampart one;
+	font-size: 150%;
+}
+
+.rolam {
+	background-color: #9db4c0;
+	border: 2px solid #9db4c0;
+	border-radius: 10px;
+	padding: 2px 0 0 2px;
+	margin:1px 1px 10px 1px;
+	max-width: 25%;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color: #253237;
+}
+
+.magamrol {
+	border: 2px solid #c2dfe3;
+	background-color: #c2dfe3;
+	border-radius: 10px;
+	margin: 20px 10px 20px 10px;
+	padding: 10px;
+	height: auto;
+}
+
+.bemutatkozas {
+	color: #414350;
+	background-color: #5c6b73;
+	border: 2px solid #5c6b73;
+	border-radius: 10px;
+	padding: 8px;
+	margin: 8px;
+}
+
+.kepszoveg img {
+	border-radius: 10px;
+	margin: 20px 25% 20px 25%;
+	width: 50%;
+	height: auto;
+}
+
+.tema {
+	background-color: #005567;
+	border: 2px solid #005567;
+	border-radius: 10px;
+	padding: 16px;
+	margin: 8px;
+	text-align: center;
+	color:  #9db4c0;
+	font-family: 'Source Serif Pro', serif;
+}
+
+.tema a {
+	text-decoration: none;
+	color: #9db4c0;
+}
+
+.kep12 img
+{
+	display: block;
+	width: 50%;
+	height: auto;
+	border-radius: 10px;
+	padding:2px; 
+}
+
+.kep12 {
+	display: inline-flex;
+}
+
+.oktv {
+	border: 2px solid #c2dfe3;
+	background-color: #c2dfe3;
+	border-radius: 10px;
+	margin: 20px 2px 10px 2px ;
+	padding: 10px;
+}
+
+.proto {
+	background-color:#9db4c0;
+	border: 2px solid #9db4c0;
+	border-radius: 10px;
+	padding: 2px 0 0 2px;
+	margin:100px 1px 10px 1px;
+	max-width: 25%;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color:#253237;
+}
+
+.muv {color: #414350;
+	background-color: #5c6b73;
+	border: 2px solid #5c6b73;
+	border-radius: 10px;
+	padding: 16px;
+	margin: 8px;
+}
+
+.alcim {background-color: #253237;
+	border: 2px solid #253237;
+	border-radius: 10px;
+	padding: 2px;
+	margin:1px;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color: #c2dfe3 ;
+}
+
+.alcim img {
+	display: inline;
+	width: 25%;
+	height: auto;
+	border-radius: 10px;
+}
+
+.kep13 img {
+	display: inline;
+	width: 20%;
+	height: auto;
+	border-radius: 10px;
+	padding: 2px;
+}
